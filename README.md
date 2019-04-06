@@ -18,7 +18,7 @@ This web project was built with HTML5, CSS, Bootstrap, Nodejs, Javascript.
 5. Access it by visiting http://127.0.0.1:8080/ or http://localhost:8080/ locally on the browser.
 
 ## Description
-### Screenshot
+### Screenshot(Main page)
 
 <img src="static/images/ipl.png" width="800">
 
