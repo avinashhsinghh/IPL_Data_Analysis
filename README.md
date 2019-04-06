@@ -23,23 +23,23 @@ This web project was built with HTML5, CSS, Bootstrap, Nodejs, Javascript.
 <img src="static/images/ipl.png" width="800">
 
 ### Question 1:
-
+<b>Plot the number of matches played per year of all the years in IPL.</b>
 <img src="static/images/matcount.png" width="800">
 
 ### Question 2:
-
+<b>For the year 2016 plot the extra runs conceded per team.</b>
 <img src="static/images/extrarun.png" width="800">
 
 ### Question 3:
-
+<b>For the year 2015 plot the top economical bowlers.</b>
 <img src="static/images/bowler.png" width="800">
 
 ### Question 4:
-
+<b>Plot a stacked bar chart of matches won of all teams over all the years of IPL.</b>
 <img src="static/images/win.png" width="800">
 
 
 ## Future Improvement
 
--Make a website responsive for all devices.
+-Make a website responsive for all devices.<br>
 -Add more analysis of Data.
