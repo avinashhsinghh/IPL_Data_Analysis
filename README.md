@@ -18,3 +18,28 @@ This web project was built with HTML5, CSS, Bootstrap, Nodejs, Javascript.
 5. Access it by visiting http://127.0.0.1:8080/ or http://localhost:8080/ locally on the browser.
 
 ## Description
+### Screenshot
+
+<img src="static/images/ipl.png" width="800">
+
+### Question 1:
+
+<img src="static/images/matcount.png" width="800">
+
+### Question 2:
+
+<img src="static/images/extrarun.png" width="800">
+
+### Question 3:
+
+<img src="static/images/bowler.png" width="800">
+
+###Question 4:
+
+<img src="static/images/win.png" width="800">
+
+
+## Future Improvement
+
+-Make a website responsive for all devices.
+-Add more analysis of Data.
