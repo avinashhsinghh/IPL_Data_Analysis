@@ -1,5 +1,5 @@
 /* eslint-disable no-undef */
-fetch('json_data/data.json').then(res => res.json()).then(json => {
+fetch('/json_data/data.json').then(res => res.json()).then(json => {
   matchCountPlot(json['matchTotal'])
   winningCountPlot(json['winCount'])
   extrasCountPlot(json['extrasCount'])
